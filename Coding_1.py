@@ -33,4 +33,3 @@ class Cylinder:
 c = Cylinder(2,3)
 
 
-print(li.__dict__)
